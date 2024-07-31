@@ -1,5 +1,5 @@
 # Summary
-Chat to various helpful uncensored characters from the privacy of your own computer. No data leaves your computer. Easy install and out-of-the-box usage.
+Chat to various helpful uncensored characters from the privacy of your own computer. No data leaves your computer. Easy install and out-of-the-box usage. There will always be a free version with basic features. Other features may be added that require payment to support development of the app.
 
 # Key features
 * 🔒 Total privacy - no data is gathered on personal usage or to train models. All your conversations are temporary
@@ -11,3 +11,12 @@ Chat to various helpful uncensored characters from the privacy of your own compu
 * ~5GB disk space
 
 # Demo
+* TBD
+
+# Future releases
+* More customisation options
+* Voice input / output
+* Image generation / sending
+* Finer grained memory / privacy options
+* API support
+* Anything else based on user feedback 😁
