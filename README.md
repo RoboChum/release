@@ -19,6 +19,10 @@ The below was run on an **NVIDIA GeForce RTX 3070 Ti** with **8GB VRAM** graphic
 * `--device <cpu|gpu>` - force app to use either **cpu** or **gpu**. Default is to try **gpu**, then fallback to **cpu**
 * `--enable-debug-mode` - enable file logs and output user / bot input and output text. Use this with caution since it will contain your conversations
 
+# Known issues
+In general, the app is bug free (please submit any issues via [robochum@outlook.com](mailto:robochum@outlook.com) or through [GitHub Issues](https://github.com/RoboChum/release/issues)). However:
+* Alpha currently uses a self-signed cert. In addition the app is packaged into an .exe which freaks out virus checkers. This combination of self-signed cert + compressed .exe means your virus checker _may_ block the .exe from running. Currently you'll have to trust me the app is safe while waiting for a proper code signing certificate
+
 # Future releases
 * More customisation options
 * Voice input / output
