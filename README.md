@@ -5,6 +5,7 @@ Chat to various helpful uncensored characters from the privacy of your own compu
 * 🔒 Total privacy - no data is gathered on personal usage or to train models. All your conversations are temporary
 * 🗽 Uncensored characters - chat about whatever you want with no restrictions (you're responsible for following any laws in your country)
 * 🚀 Easy install and usage
+* ↔️ Available on multiple platforms (Windows, macOS)
 
 # Requirements
 * Fast CPU **or** GPU with a minimum of 8GB VRAM - fast enough for a 7 billion parameter model. If you're not sure, just give it a try - the worst that will happen is the characters will speak too slowly for your taste
@@ -21,7 +22,8 @@ The below was run on an **NVIDIA GeForce RTX 3070 Ti** with **8GB VRAM** graphic
 
 # Known issues
 In general, the app is bug free (please submit any issues via [robochum@outlook.com](mailto:robochum@outlook.com) or through [GitHub Issues](https://github.com/RoboChum/release/issues)). However:
-* Alpha currently uses a self-signed cert. In addition the app is packaged into an .exe which freaks out virus checkers. This combination of self-signed cert + compressed .exe means your virus checker _may_ block the .exe from running. Currently you'll have to trust me the app is safe while waiting for a proper code signing certificate
+* Alpha currently uses a self-signed cert. In addition the app is packaged into an executable which freaks out virus checkers. This combination of self-signed cert + compressed executable means your virus checker _may_ block the executable from running. Currently you'll have to trust me the app is safe while waiting for a proper code signing certificate
+* Chatbot message window doesn't auto-scroll when messages appear (bug in 3rd party library, waiting on fix)
 
 # Future releases
 * More customisation options
