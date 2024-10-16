@@ -8,7 +8,7 @@ Chat to various helpful uncensored characters from the privacy of your own compu
 * ↔️ Available on multiple platforms (Windows, macOS)
 
 # Requirements
-* Fast CPU **or** GPU with a minimum of 8GB VRAM - fast enough for a 7 billion parameter model. If you're not sure, just give it a try - the worst that will happen is the characters will speak too slowly for your taste
+* Fast CPU with a minimum of 8GB RAM **or** GPU with a minimum of 8GB VRAM - fast enough for a 7 billion parameter model. If you're not sure, just give it a try - the worst that will happen is the characters will speak too slowly for your taste
 * ~5GB disk space - the app is small, the models are the large part
 
 # Demo
