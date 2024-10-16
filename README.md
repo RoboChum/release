@@ -16,6 +16,14 @@ The below was run on an **NVIDIA GeForce RTX 3070 Ti** with **8GB VRAM** graphic
 
 ![Demo](./docs/assets/UX_demo.gif)
 
+# Built-in characters
+* Assistant - general purpose
+* Custom - provide whatever instructions you want
+* Editor - writing specialist
+* Life Coach - helps with personal goals
+* Roleplay - another human to talk to
+* Stay Positive - cheers you up
+
 # Useful command line options
 * `--device <cpu|gpu>` - force app to use either **cpu** or **gpu**. Default is to try **gpu**, then fallback to **cpu**
 * `--enable-debug-mode` - enable file logs and output user / bot input and output text. Use this with caution since it will contain your conversations
