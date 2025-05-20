@@ -30,7 +30,7 @@ The below was run on an **NVIDIA GeForce RTX 3070 Ti** with **8GB VRAM** graphic
 
 # Known issues
 In general, the app is bug free (please submit any issues via [robochum@outlook.com](mailto:robochum@outlook.com) or through [GitHub Issues](https://github.com/RoboChum/release/issues)). However:
-* Alpha currently uses a self-signed cert. In addition the app is packaged into an executable which freaks out virus checkers. This combination of self-signed cert + compressed executable means your virus checker _may_ block the executable from running. Currently you'll have to trust me the app is safe while waiting for a proper code signing certificate
+* Alpha currently uses a self-signed cert. In addition the app is packaged into an executable which freaks out virus checkers. This combination of self-signed cert + compressed executable means your virus checker _may_ block the executable from running. Currently you'll have to trust me that the app is safe while waiting for a proper code signing certificate
 * Chatbot message window doesn't auto-scroll when messages appear (bug in 3rd party library, waiting on fix)
 
 # Future releases
