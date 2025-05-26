@@ -17,13 +17,13 @@ The below was run on an **NVIDIA GeForce RTX 3070 Ti** with **8GB VRAM** graphic
 ![Demo](./docs/assets/UX_demo.gif)
 
 # Built-in characters
-* Assistant - general purpose
-* Custom - provide whatever instructions you want
-* Editor - writing specialist
-* Life Coach - helps with personal goals
-* Roleplay - another human to talk to
-* Searcher - attach files and query them (supports `.csv`, `.docx`, `.xlsx`, `.md`, `.tsv`, `.txt`)
-* Stay Positive - cheers you up
+* **Assistant** - general purpose
+* **Custom** - provide whatever instructions you want
+* **Editor** - writing specialist
+* **Life Coach** - helps with personal goals
+* **Roleplay** - another human to talk to
+* **Searcher** - attach files and query them (supports `.csv`, `.docx`, `.xlsx`, `.md`, `.tsv`, `.txt`)
+* **Stay Positive** - cheers you up
 
 # Useful command line options
 * `--device <cpu|gpu>` - force app to use either **cpu** or **gpu**. Default is to try **gpu**, then fallback to **cpu**
