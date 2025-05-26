@@ -22,6 +22,7 @@ The below was run on an **NVIDIA GeForce RTX 3070 Ti** with **8GB VRAM** graphic
 * Editor - writing specialist
 * Life Coach - helps with personal goals
 * Roleplay - another human to talk to
+* Searcher - attach files and query them (supports `.csv`, `.docx`, `.xlsx`, `.md`, `.tsv`, `.txt`)
 * Stay Positive - cheers you up
 
 # Useful command line options
@@ -30,13 +31,15 @@ The below was run on an **NVIDIA GeForce RTX 3070 Ti** with **8GB VRAM** graphic
 
 # Known issues
 In general, the app is bug free (please submit any issues via [robochum@outlook.com](mailto:robochum@outlook.com) or through [GitHub Issues](https://github.com/RoboChum/release/issues)). However:
-* Alpha currently uses a self-signed cert. In addition the app is packaged into an executable which freaks out virus checkers. This combination of self-signed cert + compressed executable means your virus checker _may_ block the executable from running. Currently you'll have to trust me that the app is safe while waiting for a proper code signing certificate
-* Chatbot message window doesn't auto-scroll when messages appear (bug in 3rd party library, waiting on fix)
+* Alpha currently uses a self-signed cert. In addition the app is packaged into an executable which scares virus checkers. This combination of self-signed cert + compressed executable means your virus checker _may_ block the executable from running. Currently you'll have to trust me that the app is safe while waiting for a proper code signing certificate
+* **Searcher** character does not support `.pdf` files. Adding support for this bloats the app size massively, so not included for now
 
 # Future releases
 * More customisation options
+* Support for files across multiple characters
 * Voice input / output
 * Image generation / sending
+* Video generation
 * Finer grained memory / privacy options
 * API support for power users
 * Remote access for power users
